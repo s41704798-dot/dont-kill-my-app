@@ -1,4 +1,5 @@
----
+---panda touch pro
+
 manufacturer: 
     - oneplus
 
